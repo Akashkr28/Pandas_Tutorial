@@ -1,0 +1,5 @@
+1. Preserve Data Integrity
+2. Smooth Trends
+3. Avoid Data Loss
+
+interpolate() method
